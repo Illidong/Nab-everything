@@ -186,7 +186,7 @@ TileSets/FantasyHex/Units/Namteksum
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Foot Rangers and Sergeants
+TileSets/FantasyHex/Units/Namwobssorc
   rotate: false
   xy: 44, 4
   size: 32, 28
@@ -333,7 +333,7 @@ UnitIcons/Namteksum
   orig: 100, 99
   offset: 0, 0
   index: -1
-UnitIcons/Foot Rangers and Sergeants
+UnitIcons/Namwobssorc
   rotate: false
   xy: 220, 76
   size: 100, 100
