@@ -1,36 +1,36 @@
 [
 	{
-		"name": "Upside-Down",
-		"leaderName": "Rotatceps",
-		"adjective": ["Upside-Down"],
-		//No preferred victory type - we'll take any kind!
-		"style": "Upside Down",
+		"name": "Continent of Pendor",
+		"leaderName": "King Koningur Bahadur Khan Imperator",
+		"adjective": ["People of Pendor"],
+		 "preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "History in best the among generals and soldiers its, other the to world the of end one from battle into triumphantly marched have armies its.nation great a as endured has Down-Upside - enemies often and - competitors by surrounded although. Letters and arts, culture of center world the been Down-Upside has long. Rotatceps, you to triumph and life long.",
-		"startIntroPart2": "Time of test the stand will that civilization a build you can? World the of center again once Down-Upside make you will? All to order and peace bringing, again rises empire your that it to see you will? Down-Upside of glory the reclaim more once to you to turn people your, Rotatceps mighty O?",
+		"startIntroPart1": "Pendor....  An old land that is full of war, religious activity, and simple people.  A kingdom once ruled all of the continent simply, and accordingly, named the Kingdom of Pendor.  However, a great tragedy struck the land..."
+		"startIntroPart2": "On the North near the snowy Mystmountains, Gregory and Ursula are becoming more independent. On the South where the old Baccus Empire has landed, Marius and Demosthenes are showing signs of returning to their old ways. On the West near the Western Sea, Valdis and Inar are competing as per tribal Vanskerry customs. On the East near the Great Desert, Kadan and Xerxes are getting restless like their nomadic ancestors. On the center of the continent and heart of all Pendor, Ulric's and Darlion's ambitions are slowly getting bigger. Your dissapearance has disturbed Pendor once more. Oh, great champion! Quickly establish the Republic in this place and assure all your allies that remain in Pendor of your well-being. Have them know that you, their superior, is alive and aware of their every move.",
 		
-		"declaringWar": "Time payback it's, now. It know you, badly very yourself behaved you've.",
-		"attacked": "It swear I! Dearly regret soon will you! Fool!",
-		"defeated": "Triumph your in merciful be will you hope I. Yours is...day the.",
-		"introduction": "Bravery military for renowned are who, you with relationship just and fair a for hope we.",
+
+                "declaringWar": "Your fame runs before you! Let us test each other's valor on the battlefield!"
+		"attacked": "You have the look of a mercenary, another vulture come to grow fat on the misery of this land.",
+		"defeated": "I yield! Do yourself credit, and grant me the honors of war, as befitting my rank!"
+		"introduction": "Ah, yes. At last we meet. You sound like a good person to know. Let us speak together, from time to time.",
 		
-		"neutralHello": "Peace you wish I.",
-		"hateHello": "Want you do what?",
-		"tradeRequest": "Me with deal this make to – existing for reason a have do you that appears it.",
+		"neutralHello": "Peace to you, and always remember to temper your valor with mercy, your courage with honour.",
+		"hateHello": "Normally I cut the throats of impudent commoners who barge into my presence uninvited, but I am in a good mood today.",
+		"tradeRequest": "Men will always try to cheat others of their rightful due. In this faithless world, each must remain vigilant of his own rights.",
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
-		"uniqueName": "The World Turned Upside-Down",
-		"uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
+		"uniqueName": "Prophetic Visionary",
+		"uniqueText": "Self Serving Socialism",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster",
 			"City-State Influence degrades [50]% slower", "City-State Influence recovers at twice the normal rate",
 			"Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"+[20]% Production when constructing [Wonders]",
 			"+[2] Movement for all [Water] units",
-			"[+2 Culture] per turn from cities before [Steam Power]",
-			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced", "Double quantity of [Uranium] produced",
+			"[+2 Culture] per turn from cities before [Future Tech]",
+			"[+1 Production] from every [Strategic Resource]", "Double quantity of [Horses] produced", "Double quantity of [Iron] produced",
 			"+25% Production towards any buildings that already exist in the Capital",
-			"[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced",
+			"[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced","Double quantity of [Aluminum] produced",
 			"+[1] Sight for all [{Military} {Land}] units", "-[50]% Gold cost of acquiring tiles [in all cities]",
 			"Units fight as though they were at full strength even when damaged",
 			"Unhappiness from population decreased by [50]%",
@@ -39,16 +39,17 @@
 			"[+2 Science] from every specialist", "[+2 Science] from every [Great Improvement]", "Receive a tech boost when scientific buildings/wonders are built in capital",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Golden Age length increased by [50]%", "+1 Movement for all units during Golden Age", "+10% Strength for all units during Golden Age",
-			"Can embark and move over Coasts and Oceans immediately", "+[1] Sight for all [Embarked] units", "+[10]% Strength if within [2] tiles of a [Iaom]",
+			"Can embark and move over Coasts and Oceans immediately", "+[1] Sight for all [Embarked] units", "+[10]% Strength if within [2] tiles of an [Order Stronghold]",
 			"Food and Culture from Friendly City-States are increased by 50%",
 			"100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)", "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled",
 			"Receive triple Gold from Barbarian encampments and pillaging Cities", "Embarked units can defend themselves",
 			"+30% Strength when fighting City-State units and cities", "+[1] Movement for all [Mounted] units",
 			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
 			"Units ignore terrain costs when moving into any tile with Hills", "Maintenance on roads & railroads reduced by [50]%", "No Maintenance costs for improvements in [Hill] tiles",
-			"+1 Movement for all embarked units", "Units pay only 1 movement point to disembark", "Melee units pay no movement cost to pillage",
+			"+1 Movement for all embarked units", "Units pay only 1 movement point to embark and disembark", "Melee units pay no movement cost to pillage",
 			"[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]",
-			"Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
-		"cities": ["Eht Latipac","Nolybab","Snehta","Gnijieb","Sebeht","Nodnol","Sirap","Wocsom","Emor","Accem","Notgnihsaw","Otoyk","Ihled","Nilreb","Lubnatsi","Luoes","Agadnoono","Silopesrep","Ululonoh","Iahtohkus","Dirdam","Oag","Murokarak","Naltithconet","Oczuc","Negahnepoc","Mlohkcots","Truoc S'Alitta","Madretsma","Nilam","Ecnerolf","Oir ed Orienaj","Prewtna","Nilbud","Eryt","Ru","Aoneg","Ecinev","Slessurb","Lubak","Nodis","Ytamla","Hgrubnide","Eropagnis","Rabiznaz","Yendys","Epac Nwot","Udnamhtak","Ionah","Cebeuq Ytic","Iknisleh","Alauk Rupmul","Alinam","Asahl","Revuocnav","Ognok-Aznab'M","Uhsidagom"]
-	}
+			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
+                        "Starts with [Mining]"],
+                        "cities": ["Sarleon","Ravenstern","Janos","Javiksholm","Torbah","Marleons","Rane","Ethos","Valonbray","Singal","Ishkoman","Senderfall","Laria","Nal Tar","Windholm","Cez","Poinsbruk","Avendor"]
+           }
 ]
