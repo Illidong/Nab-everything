@@ -26,9 +26,9 @@
                         "[+1 Culture] for each adjacent [Order Stronghold]","Can also be built on Coastal tiles",
                         "[+2 Science] once [Scientific Theory] is discovered", "[+2 Science] once [Atomic Theory] is discovered",
                         "[+1 Production, +2 Gold] once [Economics] is discovered","Cannot be built on bonus resource"],
-		"civilopediaText": 
+		"civilopediaText": [
                          {text:"Constructing it will take over the tiles around it and assign them to your closest city"}
 
-        
+        ]
 	},
 ]
