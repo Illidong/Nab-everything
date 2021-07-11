@@ -52,7 +52,8 @@
 		"attackSound": "metalhit"
 	},
 
-        
+      /* Great People */
+
 {
 		"name": "Order Grandmaster",
 		"unitType": "Siege",
