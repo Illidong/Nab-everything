@@ -81,7 +81,7 @@ ImprovementIcons/Ecarret mraf
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Iaom
+ImprovementIcons/Order Strongholds
   rotate: false
   xy: 4, 184
   size: 100, 100
@@ -95,7 +95,7 @@ ImprovementIcons/Redlop
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Upside-Down
+NationIcons/Continent of Pendor
   rotate: false
   xy: 976, 292
   size: 100, 100
@@ -109,7 +109,7 @@ TileSets/FantasyHex/Tiles/Ecarret mraf
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Iaom
+TileSets/FantasyHex/Tiles/Order Stronghold
   rotate: false
   xy: 1192, 471
   size: 32, 29
