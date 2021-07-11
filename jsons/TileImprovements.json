@@ -1,36 +1,34 @@
 [
 	{
-		"name": "Iaom",
-		"uniqueTo": "Upside-Down",
-		"culture": 1,
-		"turnsToBuild": 4,
-		"uniques": ["[+1 Culture] for each adjacent [Iaom]",
-			"Can only be built on Coastal tiles",
-			"[+1 Gold] once [Flight] is discovered"],
-		"techRequired": "Construction",
-		"shortcutKey": "M"
+		"name": "Order Stronghold",
+		"uniqueTo": "Continent of Pendor",
+		"replaces": "Fort",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle","Marsh","Flood plains"],
+		"turnsToBuild": 10,
+		"food": 6,
+		"science": 8,
+		"culture": 7,
+		"production": 6,
+		"gold": 6,
+                "faith": 6,
+		"techRequired": "Masonry",
+		"uniques": ["Gives a defensive bonus of [150]%","Deal 30 damage to adjacent enemy units",
+			 "Can also be built on tiles adjacent to fresh water", 
+			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered",
+                        "[+3 Food] once [Fertilizer] is discovered"
+			"[+2 Food] on [non-fresh water] tiles once [Civil Service] is discovered",
+                        "[+3 Gold] once [Economics] is discovered",
+                        "[+1 Gold] once [Flight] is discovered",
+                        "[+1 Gold] once [Compass] is discovered",
+                        "Does not need removal of [Forest]",
+			"[+1 Production] once [Scientific Theory] is discovered",
+                        "[+3 Production] once [Chemistry] is discovered",
+                        "[+1 Culture] for each adjacent [Order Stronghold]","Can also be built on Coastal tiles",
+                        "[+2 Science] once [Scientific Theory] is discovered", "[+2 Science] once [Atomic Theory] is discovered",
+                        "[+1 Production, +2 Gold] once [Economics] is discovered","Cannot be built on bonus resource"],
+		"civilopediaText": [
+                         {text:"Constructing it will take over the tiles around it and assign them to your closest city"}
+
+        ]
 	},
-	{
-		"name": "Ecarret mraf",
-		"uniqueTo": "Upside-Down",
-		"terrainsCanBeBuiltOn": ["Hill"],
-		"food": 1,
-		"turnsToBuild": 7,
-		"uniques": ["[+1 Food] for each adjacent [Mountain]",
-			"Cannot be built on bonus resource",
-			"[+1 Food] on [fresh water] tiles once [Civil Service] is discovered",
-			"[+1 Food] on [non-fresh water] tiles once [Fertilizer] is discovered"],
-		"techRequired": "Construction",
-		"shortcutKey": "F"
-	},
-	{
-		"name": "Redlop",
-		"uniqueTo": "Upside-Down",
-		"food": 3,
-		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
-		"turnsToBuild": 7,
-		"uniques": ["[+1 Production, +2 Gold] once [Economics] is discovered"],
-		"techRequired": "Guilds",
-		"shortcutKey": "F"
-	}
 ]
