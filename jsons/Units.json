@@ -27,7 +27,7 @@
 		"strength": 63,
                 "cost": 150,
 		"requiredTech": "Combustion",
-                "requiredResource": "Horse",
+                "requiredResource": "Horses",
 		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by [40]%","Heals [20] HP if it kills a unit",
                          "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles"],
