@@ -84,7 +84,7 @@
 			"Great Person - [War]", "Unbuildable"],
 	"promotions": ["Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Sentry","Mobility"],
                 "attackSound": "arrow"
-	
+        },
 	{
 		"name": "Roirraw",
 		"unitType": "Melee",
