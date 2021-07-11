@@ -58,7 +58,7 @@
 		"unitType": "Siege",
                 "uniqueto": "Continent of Pendor",
                 "replaces": "Great General"
-                "ranged": 2,
+                "range": 2,
 		"movement": 7,
 		"strength": 63,
 		"rangedStrength": 63,
