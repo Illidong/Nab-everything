@@ -5,7 +5,7 @@
                 "requiredNearbyImprovement": "Order Stronghold",
 		"isWonder": true,
 		"cost": 975,
-		"uniques": ["Golden Age length increased by [50]%","Empire enters golden age","Free [Order Grandmasters] appears","Requires a [Found Knighthood Orders] in all cities", "Cost increases by [30] per owned city","Unsellable"],
+		"uniques": ["Empire enters golden age","Free [Order Grandmasters] appears","Cost increases by [30] per owned city"],
                 "requiredTech": "Atomic Theory",
 	},
    	        {
