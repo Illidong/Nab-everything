@@ -1,4 +1,13 @@
 [
+{
+		"name": "Number one under heaven",
+                "uniqueto": "Continent of Pendor",
+                "requiredNearbyImprovement": "Order Stronghold",
+		"isWonder": true,
+		"cost": 975,
+		"uniques": ["Free [Order Grandmasters] appears",""Requires a [Found Knighthood Orders] in all cities", "Cost increases by [30] per owned city","Unsellable"],
+                "requiredTech": "Atomic Theory",
+	},
    	        {
 		"name": "Found Knighthood Orders",
 	   	"replaces": "Barracks",
