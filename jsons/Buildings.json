@@ -2,7 +2,7 @@
 {
 		"name": "Number one under heaven",
                 "uniqueto": "Continent of Pendor",
-                "requiredNearbyImprovement": "Order Stronghold",
+                "requiredBuilding": "Found Knighthood Orders",
 		"isWonder": true,
 		"cost": 975,
 		"uniques": ["Empire enters golden age","Free [Order Grandmasters] appears"],
