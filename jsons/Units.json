@@ -1,4 +1,28 @@
 [
+{
+		"name": "Villager",
+                "replaces": "Worker",
+                "uniqueTo": "Continent of Pendor",
+		"unitType": "Melee",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
+                "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
+		"cost": 206,
+                "quote": "'It's almost harvesting season!'"
+	},
+{
+		"name": "Heavy Armored PikeAxeMan-at-Arms",
+                "replaces": "Warrior",
+		"uniqueTo": "Continent of Pendor",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 36,
+                "cost": 260,
+		"uniques": ["+[80]% Combat Bonus in [Friendly Land]",
+                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+        "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
+		"attackSound": "shot"
+	},
     {
 		"name": "Mounted Rangers and Sergeants",
 	        "replaces": "Machine Gun",
@@ -27,7 +51,7 @@
                 "cost": 350,
 		"requiredTech": "Combustion",
                 "requiredResource": "Horses",
-		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by [40]%","+20 hp when healing",
+		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by 40]%","+20 hp when healing",
                          "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Medic","Medic II","Sentry","Mobility","March"],
@@ -43,7 +67,7 @@
                 "cost": 325,
 		"requiredTech": "Replaceable Parts",
                 "requiredResource": "Iron",
-		"uniques": ["+20 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[80]% damage when [wounded]","[Damage taken reduced by [80]%","No movement cost to pillage",
+		"uniques": ["+20 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[80]% damage when [wounded]","[Damage taken reduced by 80]%","No movement cost to pillage",
                          "+[70]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","May capture killed [Military] units","+[70]% Combat Strength vs [Wounded units]","+[70]% Strength vs [Melee] units",
                          "+[210]% Strength vs [City] units","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
