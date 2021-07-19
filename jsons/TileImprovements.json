@@ -12,8 +12,7 @@
 		"gold": 6,
                 "faith": 6,
 		"techRequired": "Masonry",
-		"uniques": ["Gives a defensive bonus of [150]%","Deal 30 damage to adjacent enemy units",
-			 "Can also be built on tiles adjacent to fresh water", 
+		"uniques": ["Can also be built on tiles adjacent to fresh water", 
 			"[+1 Food] on [Fresh water] tiles once [Mathematics] is discovered",
                         "[+3 Food] once [Fertilizer] is discovered"
 			"[+2 Food] on [non-fresh water] tiles once [Civil Service] is discovered",
@@ -27,5 +26,10 @@
                         "[+2 Science] once [Scientific Theory] is discovered", "[+2 Science] once [Atomic Theory] is discovered",
                         "[+1 Production, +2 Gold] once [Economics] is discovered","Cannot be built on bonus resource"],
 		"civilopediaText": [{text:"Constructing it will take over the tiles around it and assign them to your closest city"}]
+	},
+{
+		"name": "Village",
+		"uniques": ["Gives a defensive bonus of [100]%", "Deal 30 damage to adjacent enemy units", "Great Improvement", "Can be built just outside your borders"],
+        "civilopediaText": [{text:"Constructing it will take over the tiles around it and assign them to your closest city"}]
 	},
 ]
