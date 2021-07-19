@@ -49,7 +49,7 @@
 		"movement": 5,
 		"strength": 63,
                 "cost": 350,
-		"requiredTech": "Combustion",
+		"requiredTech": "Refrigeration",
                 "requiredResource": "Oil",
 		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by 40]%","+20 hp when healing",
                          "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
