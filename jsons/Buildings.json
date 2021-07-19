@@ -28,7 +28,7 @@
 			"[+1 Food] from [Bananas] tiles [in this city]","+[10]% great person generation in this city",
 			"[+1 Food] from [Wheat] tiles [in this city]",
                         "[+3 Science] per [2] population [in this city]","-[25]% Culture cost of acquiring tiles [in this city]","-[25]% Gold cost of acquiring tiles [in this city]",
-                        "[+1 Food] from [Ocean] tiles [in this city]",
+                        "[+1 Food] from [Ocean] tiles [in this city]","[2] free [Worker] units appear",
 			"[+1 Food] from [Coast] tiles [in this city]","[+1 Food] from [Fish] tiles [in this city]","+[15]% Production when constructing [Mounted] units [in this city]", 
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]","Each city founded increases culture cost of policies [15]% less than normal",
