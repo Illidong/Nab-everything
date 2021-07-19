@@ -20,7 +20,7 @@
                 "rangedStrength": 36, 
                 "cost": 260,
                 "requiredResource": "Iron",
-		"uniques": ["+[80]% Combat Bonus in [Friendly Land]","Consumes [2] [Iron] in [Foreign Land]"],
+		"uniques": ["+[80]% Combat Bonus in [Friendly Land]"],
         "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"attackSound": "shot"
 	},
@@ -37,7 +37,7 @@
 	        "requiredTech": "Ballistics",
                 "requiredResource": "Horses",
 		"uniques": ["+20 hp when healing","+[80]% Combat bonus in [Foreign Land]","+[240]% Strength when attacking","May withdraw before melee ([80]%)","Can move after attacking","No movement cost to pillage",
-                         "+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units","May capture killed [Military] units",
+                         "+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units","May capture killed [Military] units","Consumes [2] [Horses]"
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","6 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"attackSound": "arrow"
@@ -52,7 +52,7 @@
                 "cost": 350,
 		"requiredTech": "Refrigeration",
                 "requiredResource": "Oil",
-		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by 40]%","+20 hp when healing",
+		"uniques": ["+[100]% Strength when attacking","+[80]% Combat Strength in [Land]","[Damage taken reduced by 40]%","+20 hp when healing","Consumes [2] [Oil]"
                          "+[70]% Strength vs [Wounded units]","+[70]% Strength vs [Melee] units","May capture killed [Military] units","Can move after attacking","Can move immediately once bought",
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Charge","Formation I","Formation II","Blitz","Medic","Medic II","Sentry","Mobility","March"],
@@ -70,7 +70,7 @@
                 "requiredResource": "Aluminum",
 		"uniques": ["+20 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[80]% damage when [wounded]","[Damage taken reduced by 80]%","No movement cost to pillage",
                          "+[70]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","May capture killed [Military] units","+[70]% Combat Strength vs [Wounded units]","+[70]% Strength vs [Melee] units",
-                         "+[210]% Strength vs [City] units","Can move immediately once bought",
+                         "+[210]% Strength vs [City] units","Can move immediately once bought","Consumes [2] [Aluminum]"
                          "+[40]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March","Amphibious","Ambush I","Ambush II"],
 		"attackSound": "metalhit"
@@ -82,7 +82,7 @@
 		"unitType": "Siege",
                 "uniqueto": "Continent of Pendor",
                 "requiredResource": "Uranium",
-		"uniques": ["Bonus for units in 2 tile radius 20%","Deal +[80]% damage when [wounded]","+[80]% Combat bonus in [Foreign Land]","+[136]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units",
+		"uniques": ["Bonus for units in 2 tile radius 20%","Deal +[80]% damage when [wounded]","+[80]% Combat bonus in [Foreign Land]","+[136]% Strength vs [Mounted] units","+[70]% Strength vs [Siege] units","+[70]% Strength vs [Ranged] units","+[70]% Strength vs [Land] units","Consumes [4] [Uranium]"
 			    "Heal this unit and adjacent units for an additional 15 HP per turn","Can move after attacking","+[240]% Strength when attacking","+[210]% Strength vs [City] units","+[80]% Combat Strength in [Land]","[140]% Strength when defending","+[136]% Strength vs [Wounded units]","Unbuildable"],
                 "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"range": 2,
