@@ -14,13 +14,12 @@
 		"name": "Heavy Armored PikeAxeMan-at-Arms",
                 "replaces": "Musketman",
 		"uniqueTo": "Continent of Pendor",
-		"unitType": "Melee",
+		"unitType": "Ranged",
 		"movement": 3,
 		"strength": 36,
                 "cost": 260,
-		"uniques": ["+[80]% Combat Bonus in [Friendly Land]",
-                         "-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
-        "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
+		"uniques": ["+[80]% Combat Bonus in [Friendly Land]"],
+        "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"attackSound": "shot"
 	},
     {
