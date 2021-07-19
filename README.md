@@ -8,4 +8,4 @@ Added unit "Foot knights and sergeants", factional infantry, great in battles, b
 Added unit "Heavy knights and sergeants", factional cavalry, use them to destroy weakened enemies. Works exceptionally well with the Mounted rangers and sergeants.
 Added unit "Mounted Rangers and sergeants", factional mounted ranged skirmishers, fast, mobile, and very scary. They do well with their heavy counterparts, for both have same max movement points and the rangers will wound the enemies so the heavies can finish them off.
 Added tile improvement "Order Stronghold". The ultimate improvement, gives everything, can be built everywhere except for resource tiles and even has defensive bonuses.
-Added great improvement "Village". A citadel with a different name.
+Added great improvement "Village". Functions like a citadel.
