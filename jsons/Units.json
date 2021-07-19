@@ -3,7 +3,7 @@
 		"name": "Villager",
                 "replaces": "Worker",
                 "uniqueTo": "Continent of Pendor",
-		"unitType": "Melee",
+		"unitType": "Civilian",
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city"],
                 "upgradesTo": "Heavy Armored PikeAxeMan-at-Arms",
@@ -12,7 +12,7 @@
 	},
 {
 		"name": "Heavy Armored PikeAxeMan-at-Arms",
-                "replaces": "Warrior",
+                "replaces": "Musketeer",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Melee",
 		"movement": 3,
