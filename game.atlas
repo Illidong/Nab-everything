@@ -179,7 +179,7 @@ TileSets/FantasyHex/Units/Foot Knights and Sergeants
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Namteksum
+TileSets/FantasyHex/Units/Heavy Armored PikeAxeMan-at-Arms
   rotate: false
   xy: 1124, 256
   size: 32, 28
@@ -207,7 +207,7 @@ TileSets/FantasyHex/Units/Rehcra
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Roirraw
+TileSets/FantasyHex/Units/Villager
   rotate: false
   xy: 732, 148
   size: 32, 28
@@ -326,7 +326,7 @@ UnitIcons/Foot Knights and Sergeants
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Namteksum
+UnitIcons/Heavy Armored PikeAxeMan-at-Arms
   rotate: false
   xy: 436, 401
   size: 100, 99
@@ -375,7 +375,7 @@ UnitIcons/Rethgif
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Roirraw
+UnitIcons/Villager
   rotate: false
   xy: 652, 292
   size: 100, 100
