@@ -74,7 +74,7 @@ BuildingIcons/Ytisrevinu
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Ecarret mraf
+ImprovementIcons/Village
   rotate: false
   xy: 4, 400
   size: 100, 100
@@ -102,7 +102,7 @@ NationIcons/Continent of Pendor
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Ecarret mraf
+TileSets/FantasyHex/Tiles/Village
   rotate: false
   xy: 4, 40
   size: 32, 28
