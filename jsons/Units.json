@@ -19,7 +19,7 @@
 		"strength": 36,
                 "cost": 260,
                 "requiredResource": "Iron",
-		"uniques": ["+[80]% Combat Bonus in [Friendly Land]"],
+		"uniques": ["+[80]% Combat Bonus in [Friendly Land]","Consumes [2] [Iron] in [Foreign Land]"],
         "promotions": ["Rejuvenation","Accuracy I","Accuracy II","Accuracy III","Barrage I","Barrage II","Barrage III","Extended Range","Indirect Fire","Logistics","Cover I","Cover II","Volley","March"],
 		"attackSound": "shot"
 	},
