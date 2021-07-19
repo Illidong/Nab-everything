@@ -17,7 +17,7 @@
 		"unitType": "Melee",
 		"movement": 3,
 		"strength": 36,
-                "cost": 260,
+                "cost": 602,
 		"uniques": ["+[80]% Combat Bonus in [Friendly Land]",
                          "-[10]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Rejuvenation","Woodsman","Shock I","Shock II","Shock III","Drill I","Drill II","Drill III","Besiege","Formation I","Formation II","Blitz","Medic","Medic II","Cover I","Cover II","Sentry","March"],
